@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a 3rd-year Computer Science student passionate about building real-world software solutions. I enjoy learning by doing whether it’s creating full-stack web and mobile apps, AI and machine learning, Android projects, or exploring how backend systems work.<br><br>I’ve worked on different personal and team projects using various tech-stack. Through these different projects, I’ve learned how to think more clearly, solve problems better, and stay curious about how to build smarter and more useful softwares and I’m always looking to improve my skills and take on new challenges.
+I’m a 4th-year Computer Science student passionate about building real-world software solutions. I enjoy learning by doing whether it’s creating full-stack web and mobile apps, AI and machine learning, Android projects, or exploring how backend systems work.<br><br>I’ve worked on different personal and team projects using various tech-stack. Through these different projects, I’ve learned how to think more clearly, solve problems better, and stay curious about how to build smarter and more useful softwares and I’m always looking to improve my skills and take on new challenges.
 
 
 ## 🌐 Socials:
